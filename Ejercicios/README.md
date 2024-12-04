@@ -3,5 +3,6 @@
 haya dos leones en la misma jaula o en jaulas contiguas.</h2>
 
 Algunos resultados:
+
 ![screenshot](capturas/1.png)
 ![screenshot](capturas/2.png)
